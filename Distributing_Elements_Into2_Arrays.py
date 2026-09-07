@@ -8,4 +8,4 @@ class Solution:
             else:
                 second.append(nums[i])
         return first + second
-        
+      
